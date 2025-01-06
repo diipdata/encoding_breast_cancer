@@ -1,7 +1,6 @@
 # BREAST CANCER ANALYSIS
 
-Projeto desenvolvido com os dados abertos disponibilizados pela Gerência-Geral de Portos, Aeroportos e Fronteiras.
-
+Projeto desenvolvido com os dados abertos disponibilizados pela 
 ## Configuração Inicial
 
 ### Com Docker e Docker Compose
